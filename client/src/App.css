@@ -1,0 +1,14 @@
+.App{
+    background-color: rgb(243, 243, 200);
+}
+nav ul{
+    list-style: none;
+    
+}
+nav ul li {
+    display: inline-block;
+    padding: 10px;
+}
+body{
+    background-color: rgb(243, 243, 200); 
+}
